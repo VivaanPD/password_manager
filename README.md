@@ -1,2 +1,1 @@
-# password_manager
- A password manager and random password generator app created using flutter and supabase
+This is a password manager project that I made using Flutter and Supabase. This is one of the first projects that I had made using Flutter, and as I didn't know the best development practices at the time, I never used a version control service like Git while developing it. I am committing it to my Github now. 
